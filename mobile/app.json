@@ -4,7 +4,6 @@
     "slug": "strikepoint",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
     "splash": {
       "backgroundColor": "#000000"
@@ -18,8 +17,6 @@
         "backgroundColor": "#000000"
       },
       "package": "com.strikepoint.app"
-    },
-    "scheme": "strikepoint",
-    "plugins": ["expo-router"]
+    }
   }
 }
