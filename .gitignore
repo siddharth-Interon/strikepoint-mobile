@@ -1,0 +1,8 @@
+node_modules/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+mobile/node_modules/
+mobile/.expo/
+backend/__pycache__/
