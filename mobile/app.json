@@ -17,6 +17,12 @@
         "backgroundColor": "#000000"
       },
       "package": "com.strikepoint.app"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2db17c92-1412-401e-98ad-9cbd29a8b3ff"
+      }
+    },
+    "owner": "interonit-solutions"
   }
 }
